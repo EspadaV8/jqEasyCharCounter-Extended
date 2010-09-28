@@ -1,0 +1,16 @@
+This is an extended version of the jqEasyCounter plugin taken from
+http://www.jqeasy.com/jquery-character-counter/
+
+It has 3 extra options that you can pass in
+
+msg - This contains the actual message that you what to show before/after the counter
+
+msgPlacement - Sets if the message is added before or after the counter
+	prepend - Add the message after the counter
+	append - Add the message before the counter
+
+numFormat - A template of how to show the counter.
+	MAX - This gets replaced with the maxChars number
+	CURRENT - This gets replace with the current length of the input
+	REMAINING - This is the value of MAX - CURRENT
+
