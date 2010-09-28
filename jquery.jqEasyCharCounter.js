@@ -1,6 +1,7 @@
-/* jQuery jqEasyCharCounter plugin
- * Examples and documentation at: http://www.jqeasy.com/
- * Version: 1.0 (05/07/2010)
+/* jQuery jqEasyCharCounter-Extended plugin
+ * See: http://github.com/EspadaV8/jqEasyCharCounter-Extended
+ * Original examples and documentation at: http://www.jqeasy.com/
+ * Version: 1.0 (29/09/2010)
  * No license. Use it however you want. Just keep this notice included.
  * Requires: jQuery v1.3+
  *
